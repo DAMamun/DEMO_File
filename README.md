@@ -1,2 +1,3 @@
 # DEMO_File
-This is my first repository.
+This is my first Git repository.
+Author- Abdullah Al Mamun
